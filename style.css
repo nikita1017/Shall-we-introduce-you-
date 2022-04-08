@@ -7,7 +7,7 @@ body{
 	background: firebrick;
 	position: absolute;
 	left: 50%;
-	bottom: 70%;
+	bottom: 50%;
 	transform: translate( -50%, -50%);
 	color: #FFFFFF;
 	font-family: 'Playfair Display', serif;
@@ -24,7 +24,7 @@ body{
 	background: firebrick;
 	position: absolute;
 	left: 50%;
-	bottom: 80%;
+	bottom: 60%;
 	transform: translate( -50%, -50%);
 	color: #FFFFFF;
 	font-family: 'Playfair Display', serif;
